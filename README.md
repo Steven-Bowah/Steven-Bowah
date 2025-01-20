@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Steven-Bowah, a Biomedical and Quality Scientist.
-- 👀 I’m interested in branching to Data Analytics. I have done Advanced Excel and Power BI.
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate. 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Steven-Bowah, a Biomedical Scientist and Public Health Epidemiologist in training.
+- 👀 I’m interested in Public Health Data Science.
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence. 
+- 💞️ I’m looking to collaborate on Climate and Health projects. 
 - 📫 ssbowah@gmail.com
 - 😄 Pronouns: He/Him
